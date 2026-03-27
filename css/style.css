@@ -119,14 +119,14 @@ span{
     border: .3rem solid rgb(53, 122, 93);
     border-radius: 37%;
     font-size: 2rem;
-    color: teal;
+    color: lightseagreen;
     margin: 3rem 1.5rem 3rem 0;
     transition: 0.5s ease;
 }
 
 .importantLinks a:hover{
    background: rgb(53, 122, 93);
-   color: blanchedalmond;
+   color: rgb(207, 238, 210);
    /* color: lightskyblue; */
 }
 
@@ -135,14 +135,14 @@ span{
     padding: 1rem 2rem;
     background:rgb(53, 122, 93);
     border-radius: 2rem;
-    color: rgb(54, 241, 232);
+    color: rgb(207, 238, 210);
     font-weight: 600;
     transition: 0.5s ease;
 }
 
 .downloadCV:hover{
     background: rgb(53, 122, 93);
-    color:blanchedalmond
+    color: lightseagreen
 }
 /* about me style */
 
